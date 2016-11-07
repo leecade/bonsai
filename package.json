@@ -12,7 +12,7 @@
     "url": "git@github.com:uxebu/bonsai.git"
   },
   "dependencies": {
-    "requirejs": "~2.0"
+    "requirejs": "~2.3.2"
   },
   "devDependencies": {},
   "engine": {},
